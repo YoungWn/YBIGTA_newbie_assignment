@@ -1,0 +1,11 @@
+5670.py:43: error: "TrieNode[T]" has no attribute "child_map"  [attr-defined]
+5670.py:46: error: "TrieNode[T]" has no attribute "child_map"  [attr-defined]
+5670.py:47: error: "TrieNode[T]" has no attribute "child_map"  [attr-defined]
+5670.py:53: error: "TrieNode[T]" has no attribute "child_map"  [attr-defined]
+5670.py:88: error: Incompatible types in assignment (expression has type "None", variable has type "int")  [assignment]
+3080.py:43: error: "TrieNode[T]" has no attribute "child_map"  [attr-defined]
+3080.py:46: error: "TrieNode[T]" has no attribute "child_map"  [attr-defined]
+3080.py:47: error: "TrieNode[T]" has no attribute "child_map"  [attr-defined]
+3080.py:53: error: "TrieNode[T]" has no attribute "child_map"  [attr-defined]
+3080.py:98: error: Need type annotation for "trie"  [var-annotated]
+Found 10 errors in 2 files (checked 10 source files)
