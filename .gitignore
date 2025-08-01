@@ -1,3 +1,14 @@
+# YBIGTA Session
+0-OT
+2(2)-Web
+3(2)-Crawling
+4(1)-EDA&FE
+4(2)-Data_Visualization
+5(1)-DMP
+7(2)-Docker
+8(1)-DB
+8(2)-AWS
+
 # 바이트 컴파일 파일 / 최적화 파일 / DLL 파일
 __pycache__/
 *.py[codz]
@@ -185,7 +196,3 @@ __marimo__/
 #  CSV 파일 및 압축 파일은 일반적으로 무시합니다.
 *.csv
 *.zip
-
-
-0-OT
-8(1)-DB
